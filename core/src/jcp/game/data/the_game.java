@@ -31,4 +31,8 @@ public class the_game extends ApplicationAdapter {
 		batch.dispose();
 		img.dispose();
 	}
+
+	public void update() {
+		///123
+	}
 }
